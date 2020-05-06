@@ -8,8 +8,8 @@ for (let i = 0; i < example1.length; i++){
       console.log(element);
       console.log(index);
       console.log(array);
-    })
+    });
 
     example1.forEach((element) => {
       console.log(element);
-    })
+    });
