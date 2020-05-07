@@ -5,7 +5,15 @@ function addTwoNumbers(a, b) {
   // return a >= b;
   // return a <= b;
   // return 'name' in a;
-  return 'name2' in a;
+  // return 'name2' in a;
+
+  function car(){}
+  function dog(){}
+
+  var pochCar = new car();
+
+  // return pochCar instanceof car;
+  return pochCar instanceof dog;
 
 }
 
