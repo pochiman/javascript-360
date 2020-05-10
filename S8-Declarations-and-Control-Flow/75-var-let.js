@@ -27,5 +27,6 @@ function add() {
     }
     console.log(i);
 }
-console.log(i);  
-add();
+
+  console.log(i);  
+  add();
