@@ -1,5 +1,5 @@
 let example1 = {
-  hello: 'World', 
+  hello: 'World',
   bye: 'Now'
 };
 

@@ -1,8 +1,8 @@
-let example1 = [1, 2, 3, 4, 5].some((element) => {
+let example1 = [1, 2, 3, 4, 5].some(element => {
   return element > 4;
 });
 
-let example2 = [1, 2, 3, 4, 5].some((element) => {
+let example2 = [1, 2, 3, 4, 5].some(element => {
   return element > 100;
 });
 

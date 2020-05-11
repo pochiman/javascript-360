@@ -1,6 +1,6 @@
 // function run(input) {
-//   if(true) {  
-//   // if(false) {  
+//   if(true) {
+//   // if(false) {
 //     console.log(input);
 //   } else if(true) {
 //     console.log('E IF')
@@ -9,18 +9,17 @@
 //   }
 // }
 
-
 function run(input) {
-  if(true) {
+  if (true) {
     console.log(input);
   }
 
-  if(false) {
-  // if(true) {
-    console.log(true)
+  if (false) {
+    // if(true) {
+    console.log(true);
   } else {
     console.log('Fail');
   }
 }
 
-  run(true);
+run(true);

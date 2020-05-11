@@ -15,18 +15,15 @@
 // var i = 0;
 // var i = 'Hello';
 
-
 // for(let i = 0; i < 5; i++) {
 
 // }
 
 function add() {
   // i exists here
-  for(var i = 0; i < 5; i++) {
-
-    }
-      console.log(i);
+  for (var i = 0; i < 5; i++) {}
+  console.log(i);
 }
 
-  console.log(i);  
-  add();
+console.log(i);
+add();

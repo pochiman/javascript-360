@@ -2,10 +2,10 @@ function run(input) {
   // if(true) {
   // if(2 + 2 === 4) {
   // if(2 + 2 === 5) {
-  
+
   // if(returnTrue()) {
-  
-  if(true) {  
+
+  if (true) {
     console.log(input);
   }
 }
@@ -14,4 +14,4 @@ function run(input) {
 //   return true;
 // }
 
-  run(true);
+run(true);

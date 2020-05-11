@@ -3,12 +3,11 @@ function run(input) {
 
   do {
     console.log('hit');
-  }
-  while(false) {
-    i++
+  } while (false);
+  {
+    i++;
     console.log(i);
   }
-
 }
-  
-  run(5);
+
+run(5);

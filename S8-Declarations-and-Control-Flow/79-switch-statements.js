@@ -1,6 +1,5 @@
 function run(input) {
-
-  switch(input) {
+  switch (input) {
     case 'Code':
       console.log('Code');
       break;
@@ -11,10 +10,9 @@ function run(input) {
       console.log('Money');
       break;
     default:
-      console.log('You do not know Poch that well')
+      console.log('You do not know Poch that well');
   }
-
 }
 
-  run('Money');
-  // run('People with egos');
+run('Money');
+// run('People with egos');

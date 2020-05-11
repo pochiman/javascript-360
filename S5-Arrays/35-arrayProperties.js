@@ -1,5 +1,5 @@
 let example1 = [];
-let example2 = [1, 2, 3, true, 'Hello', {hi: true}];
+let example2 = [1, 2, 3, true, 'Hello', { hi: true }];
 
 console.log(example1.length);
 console.log(example2);

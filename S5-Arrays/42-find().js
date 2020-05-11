@@ -1,16 +1,16 @@
-let example1 = [1, 2, 3, 4, 5].find((element) => {
+let example1 = [1, 2, 3, 4, 5].find(element => {
   return element > 3;
 });
 
-let example2 = [1, 2, 3, 4, 5].find((element) => {
+let example2 = [1, 2, 3, 4, 5].find(element => {
   return element > 4;
 });
 
-let example3 = [1, 2, 3, 4, 5].find((element) => {
+let example3 = [1, 2, 3, 4, 5].find(element => {
   return element > 6;
 });
 
-let example4 = [1, 2, 3, 4, 5].find((element) => {
+let example4 = [1, 2, 3, 4, 5].find(element => {
   return element > 6;
 });
 
