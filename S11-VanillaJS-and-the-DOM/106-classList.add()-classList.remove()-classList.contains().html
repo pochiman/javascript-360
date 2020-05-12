@@ -1,0 +1,24 @@
+<body>
+  <div id="example" class="ex">
+    <h1 id="hello">Hello World</h1>
+  </div>
+
+  <button id="btn">test</button>
+
+  <h1 class="ex">Ex</h1>
+
+  <script>
+    let example = document.getElementById('btn');
+
+    example.classList.add('sweetStyles');
+    console.log(example.classList.contains('sweetStyles'));
+    example.classList.remove('sweetStyles');
+    console.log(example.classList.contains('sweetStyles'));
+  </script>
+  <style>
+    .sweetStyles {
+      color: white;
+      background-color: black;
+    }
+  </style>
+</body>
