@@ -1,0 +1,16 @@
+<script>
+  const example = { name: 'Poch' };
+  // const example = undefined;
+
+  localStorage.setItem('username', JSON.stringify(example));
+  // localStorage.setItem('username', example);
+  // localStorage.setItem('username', 'Poch');
+
+  // console.log(localStorage.getItem('username'));
+  // localStorage.setItem('password', '2');
+  // localStorage.removeItem('password');
+  // console.log(localStorage.getItem('password'));
+  // console.log(localStorage);
+  // console.log(localStorage.getItem('username'));
+  console.log(JSON.parse(localStorage.getItem('username')));
+</script>
