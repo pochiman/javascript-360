@@ -4,8 +4,8 @@
 
 ## Example Returns
 
-- yourFunction('Poch', 'Tan') will return 'Hi, my name is Poch Tan.'.
-- yourFunction('Billy', 'Bob') will return 'Hi, my name is Billy Bob.'.
+- yourFunction('Poch', 'Tan') will return **'Hi, my name is Poch Tan.'**.
+- yourFunction('Billy', 'Bob') will return **'Hi, my name is Billy Bob.'**.
 
 ## How I Solved It Hints
 
